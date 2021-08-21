@@ -1,6 +1,6 @@
 {
   "name": "banking-system",
-  "homepage": "https://narayanbavisetti.github.io/payment-gateway/",
+  "homepage": "https://narayanbavisetti.github.io/payment-gateway",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
