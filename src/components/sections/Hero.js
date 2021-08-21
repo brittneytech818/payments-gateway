@@ -57,7 +57,7 @@ const Hero = ({
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
 
-                    <form><ScriptTag src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id={`${process.env.REACT_APP_API}`} async> </ScriptTag> </form>
+                    <form><ScriptTag src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HmbjmlVQZJA21k" async> </ScriptTag> </form>
                 </ButtonGroup>
                 
               </div>
@@ -73,6 +73,8 @@ const Hero = ({
     </section>
   );
 }
+
+// "homepage": "https://narayanbavisetti.github.io/payment-gateway/",
 
 Hero.propTypes = propTypes;
 Hero.defaultProps = defaultProps;
