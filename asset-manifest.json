@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/payment-gateway/static/css/main.44a2bd37.chunk.css",
-    "main.js": "/payment-gateway/static/js/main.b8285dab.chunk.js",
-    "main.js.map": "/payment-gateway/static/js/main.b8285dab.chunk.js.map",
+    "main.js": "/payment-gateway/static/js/main.20b710cb.chunk.js",
+    "main.js.map": "/payment-gateway/static/js/main.20b710cb.chunk.js.map",
     "runtime-main.js": "/payment-gateway/static/js/runtime-main.66f8979d.js",
     "runtime-main.js.map": "/payment-gateway/static/js/runtime-main.66f8979d.js.map",
     "static/js/2.332a7c07.chunk.js": "/payment-gateway/static/js/2.332a7c07.chunk.js",
     "static/js/2.332a7c07.chunk.js.map": "/payment-gateway/static/js/2.332a7c07.chunk.js.map",
     "index.html": "/payment-gateway/index.html",
-    "precache-manifest.fc0e0009fc5e65e499a653aa7da47dfc.js": "/payment-gateway/precache-manifest.fc0e0009fc5e65e499a653aa7da47dfc.js",
+    "precache-manifest.455fc0c566e8b3700ed59f2e77e01750.js": "/payment-gateway/precache-manifest.455fc0c566e8b3700ed59f2e77e01750.js",
     "service-worker.js": "/payment-gateway/service-worker.js",
     "static/css/main.44a2bd37.chunk.css.map": "/payment-gateway/static/css/main.44a2bd37.chunk.css.map",
     "static/js/2.332a7c07.chunk.js.LICENSE.txt": "/payment-gateway/static/js/2.332a7c07.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.66f8979d.js",
     "static/js/2.332a7c07.chunk.js",
     "static/css/main.44a2bd37.chunk.css",
-    "static/js/main.b8285dab.chunk.js"
+    "static/js/main.20b710cb.chunk.js"
   ]
 }
