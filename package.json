@@ -23,10 +23,7 @@
     "react-scroll": "^1.8.3",
     "react-youtube": "^7.13.1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/NarayanBavisetti/payment-gateway.git"
-  },
+
   "scripts": {
     "predeploy": "npm run build",
    "deploy": "gh-pages -d build",
